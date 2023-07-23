@@ -1,6 +1,6 @@
 .bannerBgImage{
     height: 100vh;
-    background: url("bannerimage.jpg");
+    background: url("./images/bannername.jpg.jpg");
     background-size: cover;
     position: relative;
 }
